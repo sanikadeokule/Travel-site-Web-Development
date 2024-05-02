@@ -18,7 +18,7 @@ About us page-
 ![About-us](https://github.com/sanikadeokule/Travel-site-Web-Development/blob/main/about-us.PNG)
 
 Booking page-
-![Booking](https://github.com/sanikadeokule/Travel-site-Web-Development/blob/main/about-us.PNG)
+![Booking](https://github.com/sanikadeokule/Travel-site-Web-Development/blob/main/booking.PNG)
 
 
 
