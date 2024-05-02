@@ -13,6 +13,9 @@ The Details page-
 
 The search page-
 ![Search-1](https://github.com/sanikadeokule/Travel-site-Web-Development/blob/main/search-1.PNG)
+![Search-2](https://github.com/sanikadeokule/Travel-site-Web-Development/blob/main/search-2.PNG)
+![Search-3](https://github.com/sanikadeokule/Travel-site-Web-Development/blob/main/search-3.PNG)
+![Search-4](https://github.com/sanikadeokule/Travel-site-Web-Development/blob/main/search-4.PNG)
 
 About us page-
 ![About-us](https://github.com/sanikadeokule/Travel-site-Web-Development/blob/main/about-us.PNG)
