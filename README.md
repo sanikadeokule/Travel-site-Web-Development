@@ -12,7 +12,7 @@ The Details page-
 ![Details-3](https://github.com/sanikadeokule/Travel-site-Web-Development/blob/main/details-3.PNG)
 
 The search page-
-![Search-1]](https://github.com/sanikadeokule/Travel-site-Web-Development/blob/main/search-1.PNG)
+![Search-1](https://github.com/sanikadeokule/Travel-site-Web-Development/blob/main/search-1.PNG)
 
 About us page-
 ![About-us](https://github.com/sanikadeokule/Travel-site-Web-Development/blob/main/about-us.PNG)
